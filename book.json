@@ -1,0 +1,26 @@
+{
+  "title": "米饭产品需求文档",
+  "language": "zh",
+  "plugins": [
+    "-hightlight",
+    "-sharing",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "image-captions",
+    "anchor-navigation-ex",
+    "prism",
+    "prism-themes",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "multipleH1": false
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-xonokai.css"
+      ]
+    }
+  }
+}
